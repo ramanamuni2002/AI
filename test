@@ -1,5 +1,0 @@
-1) age = input("Enter age: ")
-
-2) name = input("Enter name: ")
-
-3) print("Hi, my name is " + name + ", and I am " + age + " years old.")
